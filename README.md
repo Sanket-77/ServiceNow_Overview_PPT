@@ -1,7 +1,7 @@
 # ServiceNow_Overview_PPT
 
 <img width="596" alt="4" src="https://github.com/Sanket-77/ServiceNow_Overview_PPT/assets/117514640/61851744-f6a7-4733-94e7-38f5f7910a1c">
-![Screenshot 2023-10-30 144004](https://github.com/Sanket-77/ServiceNow_Overview_PPT/assets/117514640/7a09294f-e6f2-4915-be5f-35ad1c0cef8e)
+<img width="597" alt="1 (1)" src="https://github.com/Sanket-77/ServiceNow_Overview_PPT/assets/117514640/32e72b7a-a04b-4991-adbb-590f4a4b9107">
 <img width="597" alt="1 (1)" src="https://github.com/Sanket-77/ServiceNow_Overview_PPT/assets/117514640/32585bc2-3d07-407d-897f-c8b3b6d333d1">
 <img width="592" alt="2" src="https://github.com/Sanket-77/ServiceNow_Overview_PPT/assets/117514640/1c874b15-9141-41a4-9466-ab013a4d3421">
 ![Screenshot 2023-11-09 101329](https://github.com/Sanket-77/ServiceNow_Overview_PPT/assets/117514640/143d7986-761b-4d1d-8739-9bee52ae405d)
@@ -21,3 +21,4 @@
 ![Screenshot 2023-11-20 164234](https://github.com/Sanket-77/ServiceNow_Overview_PPT/assets/117514640/5556535e-e9df-4ce0-b1db-d432936ab31d)
 ![Screenshot 2023-11-20 164430](https://github.com/Sanket-77/ServiceNow_Overview_PPT/assets/117514640/baf44427-4d5f-4427-88e9-6cb0658aca17)
 ![Screenshot 2023-11-20 164534](https://github.com/Sanket-77/ServiceNow_Overview_PPT/assets/117514640/f97ad3d1-d097-4fd8-8667-bae7ed4bc24f)
+
